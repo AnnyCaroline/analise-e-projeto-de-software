@@ -19,6 +19,7 @@
                     <button type="submit">
                         Entrar
                     </button>
+                    <button formaction="create-account.php">Criar conta</button>
                 </form>
             </div>
         </div>
