@@ -9,8 +9,34 @@ Neste repositório, temos o código de exemplo utilizado para aula. A medida que
 
 A [página de Wiki](https://github.com/AnnyCaroline/analise-e-projeto-de-software/wiki) contém alguns tutoriais que podem ser úteis. Não deixe de visitar !
 
-## Dúvidas e problemas
+## P1 teórica - 07/07/2022
 
-Fique a vontade para me enviar dúvidas pelo o e-mail institucional (disponibilizado em aula). Se preferir, também pode deixar sua dúvida na forma de issue neste repositório. O lado bom é que outros alunos poderão ver sua dúvida, se beneficiar da resposta e até mesmo te ajudar a resolver, gerando um ambiente mais colaborativo. Para criar uma issue você só precisa ter uma conta do GitHub. 
+- Ambiente de desenvolvimento 
+  - Por que é necessário utilizar um servidor local, como o Apache fornecido pelo XAMPP, para escrever código PHP? 
+  - O que é arquivo index 
+  - O que acontece se abrirmos um arquivo PHP sem utilizar um servidor como o Apache/XAMPP? 
+  - Para que serve a pasta htdocs e como podemos localizá-la mais facilmente? 
 
-- [Como abrir uma issue no GitHub](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue)
+- Constantes e variáveis? 
+  - Qual a diferença entre constantes e variáveis?
+  - Como declarar constantes - `define('DB', 'projeto');`  
+  - Como declarar variáveis - `$db = "projeto";` 
+
+- Responsividade 
+  - A propriedade CSS max-width: https://www.w3schools.com/cssref/pr_dim_max-width.asp 
+  - CSS media query: https://www.w3schools.com/cssref/css3_pr_mediaquery.asp 
+
+- Leitura de código PHP + HTML 
+  - Dado um determinado código PHP, entender qual o resultado gerado 
+
+- Funções PHP 
+  - session_start 
+  - include 
+  - header, quando utilizado com o "Location" 
+  - mysqli_query 
+  - mysqli_num_rows 
+  - mysql_fetch_rows 
+  - echo 
+  - print_r 
+
+- Listas HTML (ordenadas e não ordenadas)
